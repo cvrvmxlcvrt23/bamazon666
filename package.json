@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/bamazon.git"
+    "url": "git+https://github.com/cvrvmxlcv23/bamazon666.git"
   },
   "keywords": [
     "storefront",
@@ -18,9 +18,9 @@
   "author": "Anna D Derbakova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/bamazon/issues"
+    "url": "https://github.com/cvrvmxlcvrt23/bamazon666/issues"
   },
-  "homepage": "https://github.com/angrbrd/bamazon#readme",
+  "homepage": "https://github.com/cvrvmxlcvrt/bamazon666#readme",
   "dependencies": {
     "inquirer": "^3.0.6",
     "mysql": "^2.13.0"
